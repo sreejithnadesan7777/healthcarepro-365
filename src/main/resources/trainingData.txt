@@ -1,0 +1,1 @@
+provider_id provider_name provider_specialty provider_city provider_state provider_zip provider_certification provider_qualification provider_graduation_year provider_hospital provider_email provider_phone
