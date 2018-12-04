@@ -13,7 +13,7 @@ public class HealthCareProController {
     private HealthCareProService healthCareProService;
 
     @GetMapping("/healthcarepro/dataupload")
-    public String dataUpload() {
+    public String dataUpload() throws Exception{
         return healthCareProService.execute();
     }
 }
