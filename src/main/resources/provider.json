@@ -1,3 +1,11 @@
-{"provider_id" : "1635A5F1C0BCF1CBE46F2DAA2CD84F7B", "provider_name" : "THERESA M HOM DO", "provider_specialty" : "General Practice", "provider_city" : "WORTHINGTON", "provider_state" : "Ohio", "provider_zip" : "43085", "provider_certification" : "QBR14EHR", "provider_qualification" : "UNIVERSITY OF CINCINNATI COLLEGE OF MEDICINE", "provider_graduation_year" : "1983", "provider_hospital" : "HENRICO HOSPITAL", "provider_email": "thresa@anthem.com", "provider_phone":"9995810007"}
-{"provider_id" : "1635A5F1C0BCF1CBE46F2DAA2CD84F7B", "provider_name" : "THERESA M HOM DO", "provider_specialty" : "General Practice", "provider_city" : "WORTHINGTON", "provider_state" : "Ohio", "provider_zip" : "43085", "provider_certification" : "QBR14EHR", "provider_qualification" : "UNIVERSITY OF CINCINNATI COLLEGE OF MEDICINE", "provider_graduation_year" : "1983", "provider_hospital" : "HENRICO HOSPITAL", "provider_email": "thresa@anthem.com", "provider_phone":"9995810007"}
-
+{"providerid": "1306145859", "providername": "THERESA M HOM DO", "providerspecialty": "FAMILY PRACTICE", "providercertification": "EHR", "medicalcredentaials": "MD", "provideraffilication": "HENRICO DOCTORS", "graduationyear": "1990", "medicalschool": "NEW YORK COLLEGE OF OSTEOPATHIC MEDICINE", "provideraddress": "125 MINEOLA AVE STE 200", "providercity": "Henrico", "providerstate": "VA", "provideremail": "thresa@anthem.com", "providerphone": "(415) 555-2421", "providerzip": "23233", "providerrating": 4, "healthcareproexprating": 5, "healthcareprocosteffectiverating": 5, "authorization": {"authid": "1000", "authstatus": "APPROVED", "patientid": "2000", "providerid": "1306145859"},
+  "claim": {
+    "claimid": "3000",
+    "claimstatus": "APPROVED",
+    "patientage": "34",
+    "claim_notes": "procedurecode",
+    "patientid": "2000",
+    "providerid": "1306145859",
+    "medicationid": "4000"
+  }
+}
